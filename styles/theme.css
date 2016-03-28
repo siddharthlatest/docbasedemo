@@ -1,0 +1,20 @@
+.landing, .button, .navbar-fixed-top {
+  background-color: violet; }
+
+.index-container li a, .menu a, .menu a:visited, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover, a, ul.nav li.dropdown:hover > a {
+  color: violet; }
+
+a:active, a:hover, .menu a:hover {
+  color: #e855e8; }
+
+.tt-menu:before {
+  border-bottom-color: violet; }
+
+.paginationLink {
+  border-color: violet; }
+
+.paginationLink:hover {
+  background: violet;
+  border-color: #e855e8; }
+
+/*# sourceMappingURL=theme.css.map */
