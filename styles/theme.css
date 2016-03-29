@@ -1,20 +1,20 @@
 .landing, .button, .navbar-fixed-top {
-  background-color: violet; }
+  background-color: purple; }
 
 .index-container li a, .menu a, .menu a:visited, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover, a, ul.nav li.dropdown:hover > a {
-  color: violet; }
+  color: purple; }
 
 a:active, a:hover, .menu a:hover {
-  color: #e855e8; }
+  color: #4d004d; }
 
 .tt-menu:before {
-  border-bottom-color: violet; }
+  border-bottom-color: purple; }
 
 .paginationLink {
-  border-color: violet; }
+  border-color: purple; }
 
 .paginationLink:hover {
-  background: violet;
-  border-color: #e855e8; }
+  background: purple;
+  border-color: #4d004d; }
 
 /*# sourceMappingURL=theme.css.map */
